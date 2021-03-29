@@ -1,0 +1,3 @@
+{
+    "files": ["qml/pages/homePage.qml","qml/pages/buyPage.qml","qml/pages/add_removePage.qml","qml/controls/LeftMenuBtn.qml","qml/pages/statsPage.qml","qml/controls/ToggleButton.qml","qml/main.qml","qml/components/SplashScreen.qml","main.py","qml/controls/Minimise.qml","qml/pages/sellPage.qml","qml/pages/helpPage.qml"]
+}
